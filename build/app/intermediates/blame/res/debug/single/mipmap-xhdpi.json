@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/iiro/FlutterRocks/samples/wavy-image-mask/build/app/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/iiro/FlutterRocks/samples/wavy-image-mask/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/iiro/FlutterRocks/samples/wavy_image_mask/build/app/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/iiro/FlutterRocks/samples/wavy_image_mask/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

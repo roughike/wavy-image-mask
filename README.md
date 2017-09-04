@@ -1,2 +1,8 @@
-# wavy-image-mask
-Sample on how to use ClipPaths and CustomClippers to create a wave mask for an image.
+# wavy_image_mask
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](http://flutter.io/).
