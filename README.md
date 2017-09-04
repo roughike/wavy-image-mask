@@ -1,8 +1,5 @@
-# wavy_image_mask
+# Sample project for clipping images with wave shapes
 
-A new Flutter project.
+[Read the blogpost here.](https://flutter.rocks/2017/09/04/creating-a-wavy-mask-for-an-image-in-flutter/)
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+All the related source code is located in [the /lib folder](https://github.com/FlutterRocks/wavy-image-mask/tree/master/lib).
