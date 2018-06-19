@@ -13,7 +13,7 @@ class WavyHeaderImage extends StatelessWidget {
 class BottomWaveClipper extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
-    Path path = Path();
+    var path = Path();
     path.lineTo(0.0, size.height - 20);
 
     var firstControlPoint = Offset(size.width / 4, size.height);
